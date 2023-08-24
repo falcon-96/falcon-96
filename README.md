@@ -3,13 +3,16 @@
 - 🌱 Currently exploring, learning algorithms, frameworks and various other subjects.
 - 🦖 Trying to understand the future of web tech, and other newer technologies.
 
----
-<h1>Technologies</h1> 💡
+------
+<h3>Technologies 💡</h3>
 
-Languages: Java, C/C++, HTML, CSS
-Frameworks: Spring Boot
-Databases: Oracle Sql
-Certifications: Oracle Java SE8 Programmer
+
+- Languages: ![Static Badge](https://img.shields.io/badge/Java-blue) ![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-darkred) ![Static Badge](https://img.shields.io/badge/HTML-orange) ![Static Badge](https://img.shields.io/badge/CSS-pink)
+- Frameworks: ![Static Badge](https://img.shields.io/badge/SpringBoot-green?logo=springboot)
+- Databases: ![Static Badge](https://img.shields.io/badge/OracleSQL-red?logo=oracle)
+- Certifications: ![Static Badge](https://img.shields.io/badge/Oracle%20Java%20SE8%20Programmer-darkred?logo=oracle)
+
+---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chetan-dhanjal/)
 
